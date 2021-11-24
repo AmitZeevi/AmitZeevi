@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmitZeevi
-- 👀 I’m interested in finding CS projects
-- 🌱 I’m currently learning Coputer sciennce
+- 👋 Hi, I’m Amit Zeevi
+- 👀 I’m interested backend development 
+- 🌱 I’m currently learning Coputer sciennce @ IDC
 - 📫 How to reach me - amitz267@gmail.com 
 
 <!---
