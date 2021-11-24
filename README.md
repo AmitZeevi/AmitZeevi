@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Zeevi
 - 👀 I’m interested backend development 
-- 🌱 I’m currently learning Coputer sciennce @ IDC
+- 🌱 Currently learning Coputer sciennce @ IDC
 - 📫 How to reach me - amitz267@gmail.com 
 
 <!---
