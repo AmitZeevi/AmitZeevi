@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Zeevi
 - 👀 I’m interested in backend development 
-- 🌱 Currently learning Computer Sciences @ IDC
+- 🌱 Currently learning Computer Sciences @ IDC and production manager @ Wix mobile apps.
 - 📫 How to reach me - amitz267@gmail.com 
 
 <!---
